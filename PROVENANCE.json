@@ -1,0 +1,40 @@
+{
+  "workspace_core.py": {
+    "source_sha256": "5b3489eaaa594b646965790c9737669d7dcf200271aa0b24bf55784d53beb908",
+    "extraction": "Exact selected top-level symbols; import prelude added",
+    "symbols": {
+      "BUILDER_VERSION": "367717aa2840b30fd53c01dde9f7b824d9b8b1b0d7f8a0d235b8f8f1e343bde2",
+      "MANIFEST": "5f7496b80a64860430f8ee8ee6e4d063717f996d8dd54791461ab91648255918",
+      "NOTICE": "08f4860edd096f618e86b8fd6e84a995de6d8d07ad5a73c4aa205612929f26ae",
+      "LAYER_BRANCH": "af6586d74de3ae2e094c3fe6412c0d6eb7a6fd64da4765efadfb98b46a7136d0",
+      "STAGING_REF_PREFIX": "9dd299ab38b571148bba2c7a3f9e9102453ee36e8c2bf2844e2f0fd726ebacc3",
+      "PUBLISHED_REF": "ff5768b39e82576947dc2bbb3e3bc425913c7a56dcd3be4a687210c853d59da3",
+      "HOOKS_OFF": "bde7aace010b3c5e2bffb3035d3affa1bc0fa825cb5f15d35a528fe00f9aeaf1",
+      "FILE_MODE": "23a1c27d1bc2af0907ef205ade606fdc4e602397cc21f3ee4846a01cf6e8819e",
+      "VOLATILE_MANIFEST_FIELDS": "122230d7e481c355b71f8086744d818bcc8bf3c4fd44684c77c75d538fc36332",
+      "SECRET_FILENAME_GLOBS": "cc12bc815bbb717d34c7217a5072752674de31100453eea5b50f457abba99969",
+      "SECRET_PATTERNS": "361d1f400f5992ce48a0446e018e36f86b193d9356eba58594844e031379e732",
+      "BuildError": "423e38aa4e0cba1cb1158d5a281eb340110bbe8c3cff898fd716bb6466d3c3d1",
+      "fold": "78f9ef3139ec5779f2f0cbcdc0cde50656afbee54c445715afc57247055988b3",
+      "is_under": "7c22bf5661bef83841ba47bfc6a278ff0c1a2addbed53bce354d2c5613813aff",
+      "is_under_folded": "aa112678473eea9523dae1c70af18375dde19f9585c1096e72e6653ee5f8f503",
+      "read_only_env": "cee4a7eec11af86abfe70879367a1b9580da6e20713f0e0407e015402af1adbf",
+      "source_entries": "5791d07e5059eb6e04534e0e4f20605abd9cb0e680e356e93d13ff261952afb5",
+      "read_blobs": "1966f370e4096efc8edd7d1fcdb0a98abf81e189cbc1bcfe79b7c719abf17d4f",
+      "secret_filename_hits": "3f22694b0de0e939d4899b0aee953be97ebc77bb1bb48e5cd756955eb9a96d68",
+      "is_waived": "470d9d9eaf3661de619d496f3d93d9aec3e86aa0562d9761e011f3e3371dc2c4",
+      "scan_bytes": "94afbc3ac52510d82861c32d24159c7edcf78e76980a1ac88c01dc79900edb6f",
+      "notice_text": "10912d2af37b474ff41f1328a9992f874179b24a14ec0df1c8799becb267e032",
+      "generated_entries": "1fbeead3b463403a7775e57e4f29caf70341a74dad0f077c0ebf7d8cc671c980",
+      "git_repo": "0acda8af69b6c9d4fe7ca54c40cc26cdaf4b149f574539c023e61266680d64b1",
+      "blob_id": "05f3f8758c02c51dc658d28aa1ecddbff28701a90b725c645e22683cf2a2edda",
+      "quote_path": "38ac0111eac4010cf6bcc99c20518f2046b95e2756e5aa2182e59554a322c36b",
+      "committer_ident": "2cbfac49c5c8f52ec497e1ada384839ab60a7cecf20331b2346cfb041857868c",
+      "fast_import_stream": "2d9c0f7166926b3d19661d6f078f16dc6bf672b6f7c1822044317976f4874d4c",
+      "read_tree": "feb45f2d6a50c6dbdfbec0ae155c782a26a67b002bc48cd8b3a77cfb420d6390",
+      "tree_is_current": "2cfb44bbef3275d1eb2737f04df2c559f96dc53f799da1ef2d748a8c6f79159f",
+      "ref_value": "f6d3d3d55f47c50302ff92aa26b97a3953cfa42b7a5370586a113d6f3ead11da",
+      "_commit_collected": "e9c4be4f87048454237e0927d43d00c5ff316e64eea1d40e13c46c19c118fdc3"
+    }
+  }
+}

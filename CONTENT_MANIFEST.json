@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "files": {
+    ".github/workflows/verify.yml": {
+      "sha256": "6b6425613e7e7a76d295bb2a210f9f2cbd31ff84f48739748ddfef6b608efccf",
+      "bytes": 352
+    },
+    ".gitignore": {
+      "sha256": "a940c07bbf1d4c78f24d107d6f32cbae38278cd87adde2a7d447990ef017c957",
+      "bytes": 43
+    },
+    "DECISIONS.md": {
+      "sha256": "d54bd28103b36d72f544fe68975fe262e16a4d0e208c9302dc8f004111dcf937",
+      "bytes": 1644
+    },
+    "LICENSE": {
+      "sha256": "ebc9df87e3dce0cd07923b23adc10038093ff13d48b5db138ef780aa6496ce07",
+      "bytes": 119
+    },
+    "PROVENANCE.json": {
+      "sha256": "e8b2025c0eaa61e648c6aafdb6b1ce1cdd088cee4d9b8725a68a397a7374cb50",
+      "bytes": 3115
+    },
+    "PUBLICATION_REVIEW.md": {
+      "sha256": "35ea017cd8728ce2514e4533786aa604d6e6820bb37ecf57a0ba0819efe0fba4",
+      "bytes": 2709
+    },
+    "README.md": {
+      "sha256": "fccd1066dedbd37ab961a7923a237092cc4b1ce25483f2a366059d6335800e48",
+      "bytes": 2383
+    },
+    "REPORT.md": {
+      "sha256": "fb07bb41fdb5e2bddbdc9f2a8bf497a3a6463e024c6b01955b78cb0d3bf1f282",
+      "bytes": 979
+    },
+    "claims.json": {
+      "sha256": "0b85b01c3889aebdb582a3ee5ffe3a424fda245b909388b28579e7c22d56b327",
+      "bytes": 802
+    },
+    "demo.py": {
+      "sha256": "8f28314183bc6d90f999bfc23ca5064d85900b284a6742dfa5671ffd4574c7f0",
+      "bytes": 3783
+    },
+    "evidence-map.json": {
+      "sha256": "cee440fc2a1aa3b9ca86081449403f073e2f450b79a98ab6af3b6d5e7a34a97d",
+      "bytes": 1692
+    },
+    "tests/test_boundaries.py": {
+      "sha256": "5dcbd358abe72896baed1a1a5c649fa8d021ec2af16822ef48a74d125ded4878",
+      "bytes": 8847
+    },
+    "verification/demo.json": {
+      "sha256": "87017cd4f8adac292729cf6bf063167983e34270294a0faa899dbcb28e7f4ab8",
+      "bytes": 203
+    },
+    "verification/result.json": {
+      "sha256": "9a0490bc5f9e57a42ec24b92a0c4563082c7fa84ae7b5b24be638bac1f6537f8",
+      "bytes": 313
+    },
+    "verification/tests.txt": {
+      "sha256": "6ab3231bc77a38af990ce3970d7e6dedb02b5cc41b484b7816992fc232a45436",
+      "bytes": 2149
+    },
+    "workspace_core.py": {
+      "sha256": "479ddafe564a703f3cd4f77c029728e28e5d308fab60d83413e0251605185f63",
+      "bytes": 16625
+    }
+  }
+}

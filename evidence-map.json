@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "date": "2026-11-13",
+  "engine_status": "Beta",
+  "v1_shipped": false,
+  "beta_report_url": "https://www.linkedin.com/feed/update/urn:li:activity:7490949064436674560",
+  "continuation": {
+    "title": "From Knowledge Vault to Governed AI Delivery",
+    "edition": "1.1",
+    "status": "owner-review draft",
+    "url": null,
+    "pdf_sha256": null
+  },
+  "draft_pages": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    34
+  ],
+  "scope": "scoped-ai-workspaces",
+  "claims": [
+    {
+      "claim": "Committed allowlisted content excludes working edits and unrelated source records",
+      "state": "demonstrated",
+      "code": "demo.py:collect_synthetic",
+      "test": "tests/test_boundaries.py:WorkspaceTests.test_only_committed_allowlisted_bytes",
+      "limit": "Finite synthetic collector; full private export policy is not shipped"
+    },
+    {
+      "claim": "Fresh root history, byte-checked tree and atomic branch update",
+      "state": "demonstrated",
+      "code": "workspace_core.py:_commit_collected",
+      "test": "tests/test_boundaries.py",
+      "limit": "Local Git only; no GitHub permissions or deploy keys provisioned"
+    },
+    {
+      "claim": "Employee credentials and application access are scoped separately",
+      "state": "design requirement",
+      "code": null,
+      "test": null,
+      "limit": "This showcase grants no access and does not audit a live employee"
+    }
+  ],
+  "snapshot_publication_state": "Prepared for review at snapshot time; final decisions are in the evidence release publication receipt",
+  "code_provenance": "PROVENANCE.json",
+  "tests": "python3 -B -m unittest discover -s tests -v",
+  "demo": "python3 -B demo.py"
+}

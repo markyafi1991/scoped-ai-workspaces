@@ -1,0 +1,5 @@
+[
+  {"claim":"Committed allowlisted content excludes working edits and unrelated source records", "state":"demonstrated", "code":"demo.py:collect_synthetic", "test":"tests/test_boundaries.py:WorkspaceTests.test_only_committed_allowlisted_bytes", "limit":"Finite synthetic collector; full private export policy is not shipped"},
+  {"claim":"Fresh root history, byte-checked tree and atomic branch update", "state":"demonstrated", "code":"workspace_core.py:_commit_collected", "test":"tests/test_boundaries.py", "limit":"Local Git only; no GitHub permissions or deploy keys provisioned"},
+  {"claim":"Employee credentials and application access are scoped separately", "state":"design requirement", "code":null, "test":null, "limit":"This showcase grants no access and does not audit a live employee"}
+]
